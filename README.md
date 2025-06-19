@@ -13,7 +13,7 @@ python3.6以上がインストールされている必要があります。
 ## ゲーム実行方法
 
 ````bash
-git clone https://github.com/your-username/Guess_the_number_game.git
+git clone https://github.com/yuu200809gt/Guess_the_number_game.git
 cd Guess_the_number_game
 python3 main.py
 ````
